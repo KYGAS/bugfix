@@ -2,9 +2,9 @@
     "files": {
         "index.js": "2210b719a84086b1c5ddfe72fca46abbb7bab0cb4aae6d683781d6da4e9a648b",
         "lib/chat-sanitizer.js": "0117ffca404691539dbe041bfe9bc51b00aafa55d87f8053728231864491de72",
-        "lib/grownAbnormals.js": "d7a2755c728849585da739ac921633e2c75d79f699feff0ca181f27d21d82b67",
+        "lib/grownAbnormals.js": "f949995f5ea5eade4ab5afa501fa9293040d9043644ae5ab0197ad5ec325eb25",
         "lib/private-channel-fix.js": "4c2f81520db86f0398e8b92523f2608cbd21193344319470c93190e816c47295",
-        "lib/pve-fixes.js": "1b91163e7516220c5a2921a24f42b6c247d66fe5b5c02f9f1e369113c2cecdb2",
+        "lib/pve-fixes.js": "239a146b0d87b41b351f90fb94fc2e1c621d1722e40d66ca54592d4c2079265c",
         "lib/swim-fix.js": "30dadfa58eaa4057e41a6e5139f8f793da9b793885753356b120bdabeaeae12a",
         "module.json": "4b8893b4f8671d5db404a6cdf7f0afedae4e484c02dabb69653b7e6ae3ba4c04"
     },
